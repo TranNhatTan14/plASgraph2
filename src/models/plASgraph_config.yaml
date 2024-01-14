@@ -15,7 +15,7 @@ n_labels: 2
 output_activation: sigmoid
 plasmid_ambiguous_weight: 1.0
 plasmid_threshold: 0.33554333448410034
-preproc_activation: sigmoi
+preproc_activation: sigmoid
 random_seed: 123
 set_thresholds: true
 tie_gnn_layers: true
